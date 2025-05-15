@@ -20,10 +20,10 @@ The project evaluates five DNS configuration models for the fictional company **
 | Folder              | Description                                                  |
 |---------------------|--------------------------------------------------------------|
 | `slides/`           | The presentation slides used in the assessment video         |
-| `analysis/`         | Final voiceover script and breakdown of each DNS setup       |
+| `analysis/`         | Discussion, solution and breakdown of each DNS setup         |
 | `assessment-pdf/`   | Official assessment brief provided by QUB                    |
 | `diagrams/`         | All referenced DNS architecture diagrams (e.g., Split DNS)   |
-| `video/`            | [Optional] Video demo file or external link to YouTube/Drive |
+| `video/`            | Video demo file                                              |
 
 ---
 
