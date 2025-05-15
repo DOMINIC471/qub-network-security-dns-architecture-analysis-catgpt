@@ -65,7 +65,7 @@ The project evaluates five DNS configuration models for the fictional company **
 
 ## 🎥 Video Presentation
 
-📺 **[Watch the demo on YouTube](https://your-youtube-link-here)**  
+📺 **[Watch the demo on YouTube](https://youtu.be/4CS477YYJk8)**  
 _(Unlisted – available only via direct link)_
 
 ---
